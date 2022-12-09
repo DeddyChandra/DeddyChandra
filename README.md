@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeddyChandra
 - 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning Vue.js / Kotlin / Springboot / Python
-- 💞️ I’m looking to collaborate on any fun project
+- 💞️ The language that i used (Chinese & Bahasa & English, etc)
 - 📫 How to reach me [www.instagram.com/deddychandra__](https://www.instagram.com/deddychandra__/)
 - :computer: Currently working at Traveloka - Indonesia
 

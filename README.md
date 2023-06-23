@@ -62,9 +62,9 @@ Tools:
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=flat) 
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat) 
+![cURL](https://img.shields.io/badge/cURL-000000?logo=curl&logoColor=white&style=flat) 
 
 Code Editors:
-![cURL](https://img.shields.io/badge/cURL-000000?logo=curl&logoColor=white&style=flat) 
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-cafebabe?logo=intellij-idea&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)

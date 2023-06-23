@@ -38,6 +38,10 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-000000?logo=gnu-bash&logoColor=white&style=flat)
 
 Frameworks:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white&style=flat)
@@ -45,12 +49,13 @@ Frameworks:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?logo=codeigniter&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
 
 Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
 
 Cloud computing providers: 
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?logo=amazon-aws&logoColor=white&style=flat)
@@ -63,6 +68,7 @@ Tools:
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat) 
 ![cURL](https://img.shields.io/badge/cURL-000000?logo=curl&logoColor=white&style=flat) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 Code Editors:
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat)
@@ -74,6 +80,8 @@ Operating Systems:
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=flat)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat)
 
 
 Certifications:

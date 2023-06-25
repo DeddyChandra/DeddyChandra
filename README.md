@@ -20,13 +20,9 @@ Hi there! I'm Deddy Chandra, a passionate programmer and technology enthusiast. 
 
 ## 🚀 GitHub Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=DeddyChandra&show_icons=true&count_private=true&include_all_commits=true&theme=buefy">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeddyChandra&show_icons=true&count_private=true&include_all_commits=true&theme=buefy" alt ="Deddy Chandra stats">
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DeddyChandra&layout=compact&theme=buefy&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeddyChandra&layout=compact&theme=buefy&hide_border=true" alt ="Deddy Chandra stats">
-</a>
+![deddychandra's Stats](https://github-readme-stats.vercel.app/api?username=deddychandra&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![deddychandra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deddychandra&theme=vue-dark&hide_border=false)
+![deddychandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deddychandra&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## 💼 Skills and Tools
 

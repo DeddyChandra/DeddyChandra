@@ -65,6 +65,8 @@ Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat) 
 ![cURL](https://img.shields.io/badge/cURL-000000?logo=curl&logoColor=white&style=flat) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=flat)
+
 
 Code Editors:
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat)

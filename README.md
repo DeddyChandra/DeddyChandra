@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm Deddy Chandra, a passionate programmer and technology enthusiast. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and interests. Feel free to explore and connect with me.
+Hi there! I'm Deddy Chandra 許文勇, a passionate programmer and technology enthusiast. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and interests. Feel free to explore and connect with me.
 
 ## 🧑‍💻 About Me
 

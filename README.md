@@ -4,17 +4,17 @@ Hi there! I'm Deddy Chandra 許文勇, a passionate programmer and technology en
 
 ## 🧑‍💻 About Me
 
-- 💼 Currently working at Traveloka as a Backend Engineer (FinTech)
-- 👀 Interested in PROGRAMMING and exploring new technologies
-- 🌱 Currently learning Kotlin, Spring Boot, AWS and Terraform
+- 💼 Currently working at Traveloka as a Backend Engineer (FinTech).
+- 👀 Interested in PROGRAMMING and exploring new technologies.
+- 🌱 Currently learning Kotlin, Spring Boot, AWS and Terraform.
 - 💬 Fluent in multiple languages: Chinese, Bahasa, English, Teochew, Hokkien, etc.
-- 🎓 Alumni of Chatolic Parahyangan University
+- 🎓 Alumni of Chatolic Parahyangan University.
 
 ## 🏆 Achievements
 
 - 🏅 Competed in the Indonesia National Contest, achieving a rank of 39th.
 - 🏅 Participated in the 2020 ICPC Asia Jakarta Regional Contest, ranking 10th.
-- ICPC Profile: [ICPC ID - W9SWRY5YEXTT](https://icpc.global/ICPCID/W9SWRY5YEXTT)
+- ICPC Profile: [ICPC ID - W9SWRY5YEXTT](https://icpc.global/ICPCID/W9SWRY5YEXTT).
 
 ## 📫 Contact Me
 

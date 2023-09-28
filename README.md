@@ -32,7 +32,7 @@ Hi there! I'm Deddy Chandra 許文勇, a passionate programmer and technology en
 
 ## 💼 Skills and Tools
 
-Here are some of the programming languages, tools, and technologies I work with:
+Here are some of the programming languages, tools, frameworks and technologies I work with:
 
 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?ogo=java&logoColor=white&style=flat)

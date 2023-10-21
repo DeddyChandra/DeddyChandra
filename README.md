@@ -26,7 +26,6 @@ Hi there! I'm Deddy Chandra 許文勇, a passionate programmer and technology en
 
 ## 🚀 GitHub Stats
 
-![deddychandra's Stats](https://github-readme-stats.vercel.app/api?username=deddychandra&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
 ![deddychandra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deddychandra&theme=vue-dark&hide_border=false)
 ![deddychandra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deddychandra&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 

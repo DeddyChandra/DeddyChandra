@@ -4,7 +4,7 @@ Hi there! I'm Deddy Chandra 許文勇, a passionate programmer and technology en
 
 ## 🧑‍💻 About Me
 
-- 💼 Currently working at Traveloka as a Backend Engineer (FinTech).
+- 💼 Currently working at Traveloka as a Backend Engineer (~FinTech~ Corporate Travel).
 - 👀 Interested in PROGRAMMING and exploring new technologies.
 - 🌱 Currently learning Kotlin, Spring Boot, AWS and Terraform.
 - 💬 Fluent in multiple languages: Chinese, Bahasa, English, Teochew, Hokkien, etc.

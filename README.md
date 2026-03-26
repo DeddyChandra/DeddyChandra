@@ -22,7 +22,6 @@ Hi there! I'm Deddy Chandra 許文勇, a passionate programmer and technology en
 [![Twitter](https://img.shields.io/badge/Twitter-DeddyChandra-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/deddychandra007)
 ![Instagram](https://img.shields.io/badge/Instagram-DeddyChandra__-E4405F?logo=instagram&logoColor=white&style-flat&link=https://instagram.com/deddychandra__)
 [![Gmail](https://img.shields.io/badge/Gmail-Deddy%20Chandra-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:deddychandra678@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Deddy%20Chandra-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/deddy.chandra007/)
 
 ## 🚀 GitHub Stats
 
